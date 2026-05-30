@@ -19,5 +19,5 @@ Tracking repo for a self-hosted Forgejo Git forge. No application code — holds
 
 - **Path**: `C:\Users\aaron\forgejo_mcp\forgejo_mcp.py`
 - **Transport**: stdio via FastMCP
-- **10 tools**: repos, create_repo, repo_info, issues, create_issue, pulls, create_pr, branches, commits, search
+- **11 tools**: repos, create_repo, repo_info, issues, create_issue, pulls, create_pr, branches, commits, search, push_to_github
 - **Env vars required**: `FORGEJO_URL` (http://192.168.0.33:3200), `FORGEJO_TOKEN`
